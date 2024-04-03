@@ -1,9 +1,9 @@
 <template>
-  <TeacherForm/>
+  <InputTag/>
 </template>
 
 <script lang="ts" setup>
-import TeacherForm from './components/TeacherForm.vue';
+import InputTag from './components/InputTag.vue';
 
 </script>
 
