@@ -4,5 +4,5 @@ Component practice in vue
 
 ## Config:
 * compisition API <br>
-* typescripr <br>
+* typescript <br>
 * setup in script <br>
