@@ -1,4 +1,4 @@
-# Practicas en Vue
+# Practices in Vue
 
 Component practice in vue
 
